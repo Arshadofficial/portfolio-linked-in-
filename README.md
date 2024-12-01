@@ -1,26 +1,16 @@
-# Web Hosting Providers Display Website
+<p align="left"># Portfolio Website<br><br>This project is a personal portfolio website showcasing my skills, projects, and experience. Built using **HTML**, **CSS**, and **JavaScript**, it provides a clean and interactive way to display my professional profile.<br><br>## Features<br><br>- **About Me:** A section to introduce myself and my background.<br>- **Projects Showcase:** Highlights of my completed and ongoing projects with links to demos or repositories.<br>- **Responsive Design:** Optimized for viewing on various devices.<br>- **Interactive Elements:** Smooth navigation and visually appealing animations using JavaScript.<br><br>## Tech Stack<br><br>- **Frontend:** HTML, CSS, JavaScript<br>- **Styling:** Custom CSS with animations and transitions<br>- **Interactivity:** JavaScript for dynamic user interactions<br><br>## Installation and Setup<br><br>Follow these steps to view the project locally:<br><br>
+### Prerequisites<br>- Any modern web browser installed<br>- Optional: A code editor like VS Code for modifications</p>
 
-This project is a dynamic website that displays various web hosting providers to engage user traffic. Built using **React.js**, **Node.js**, and **Bootstrap**, the site offers an intuitive and responsive interface for users to explore hosting options.
+###
 
-## Features
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
 
-- **Dynamic Content:** Displays a list of web hosting providers dynamically.
-- **Responsive Design:** Built with Bootstrap for a seamless user experience on different devices.
-- **Fast and Interactive:** Leveraging React.js for a highly interactive UI.
-- **Scalable Backend:** Powered by Node.js for efficient server-side operations.
-
-## Tech Stack
-
-- **Frontend:** React.js, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Styling:** CSS, Bootstrap
-
-## Installation and Setup
-
-Follow these steps to get the project up and running locally:
-
-### Prerequisites
-- Node.js installed on your system
-- Git installed for version control
-
-
+###
